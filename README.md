@@ -6,4 +6,4 @@ Sonic Pi: https://github.com/sonic-pi-net/sonic-pi
 
 # Latest Update  
 
-2020/11/26: __L'Internationale__
+2020/11/26: _L'Internationale_, _Marching of Beloved_, _Moscow's Outs_, _REMOVE KEBAB_, _Restless Youth_, _Soviet March_.
