@@ -2,7 +2,7 @@
 
 Songs programmed with Sonic Pi.  
 
-Sonic Pi: https://github.com/sonic-pi-net/sonic-pi  
+Sonic Pi: https://sonic-pi.net , https://github.com/sonic-pi-net/sonic-pi  
 
 # Latest Update  
 
